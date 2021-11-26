@@ -8,6 +8,7 @@
 video-processing-automated-script
   ├── CMD.png
   ├── My_client_review.png
+  ├── The rest of review.png
   ├── clip_1.mp4
   ├── clip_2.mp4
   ├── input_local.json
