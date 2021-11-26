@@ -6,13 +6,13 @@
 # Directory Structure
 ```bash
 video-processing-automated-script
-  ├── video_processing_script.py
+  ├── CMD.png
+  ├── My_client_review.png
+  ├── clip_1.mp4
+  ├── clip_2.mp4
   ├── input_local.json
   ├── input_url.json
   ├── processed_video.mp4
-  ├── clip_1.mp4
-  ├── clip_2.mp4
-  ├── CMD.png
-  ├── My_client_review.png
+  ├── video_processing_script.py
   └── README.md
 ```
