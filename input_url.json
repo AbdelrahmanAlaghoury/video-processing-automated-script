@@ -1,0 +1,50 @@
+{
+	"content": [
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001001.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_1.png",
+			"text": "In the name of Allah, the Entirely Merciful, the Especially Merciful"
+		},
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001002.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_2.png",
+			"text": "[All] praise is [due] to Allah, Lord of the worlds"
+		},
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001003.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_3.png",
+			"text": "The Entirely Merciful, the Especially Merciful"
+		},
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001004.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_4.png",
+			"text": "Sovereign of the Day of Recompense"
+		},
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001005.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_5.png",
+			"text": "It is You we worship and You we ask for help"
+		},
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001006.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_6.png",
+			"text": "Guide us to the straight path"
+		},
+		{
+			"audio": "http://www.everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/001007.mp3",
+			"image": "http://www.everyayah.com/data/images_png/1_7.png",
+			"text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray"
+		}
+	],
+	"background": [
+		{
+			"video": "https://vod-progressive.akamaized.net/exp=1637416500~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2654%2F22%2F563274139%2F2663456271.mp4~hmac=5317b32a4d324f5f05526f5d471c558140992c2458ebf214df541b641098a635/vimeo-prod-skyfire-std-us/01/2654/22/563274139/2663456271.mp4"
+		},
+		{
+			"video": "https://vod-progressive.akamaized.net/exp=1637416677~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3535%2F22%2F567678222%2F2683946991.mp4~hmac=920708b2b70b0bc2b95e39b38613192128f6e43e7c5066d613a91350bc4706cd/vimeo-prod-skyfire-std-us/01/3535/22/567678222/2683946991.mp4"
+		},
+		{
+			"video": "https://vod-progressive.akamaized.net/exp=1637416749~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3272%2F22%2F566362571%2F2677755949.mp4~hmac=31d9086a53f5c51997d127d9bede774ca2de8fd2b92d057c6c09c433e352a309/vimeo-prod-skyfire-std-us/01/3272/22/566362571/2677755949.mp4"
+		}
+	]
+}
